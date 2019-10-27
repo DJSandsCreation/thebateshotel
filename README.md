@@ -1,2 +1,2 @@
-# thebateshotel
-a response 3 page site for The Bates Hotel
+# The Bates Hotel
+A 3 page, responsive website.Using HTML, CSS and AwesomeFont.
