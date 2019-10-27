@@ -136,7 +136,7 @@ p {
 
 /* sudio selector hover,  */
 #showcase {
-  background: url('../img/pool1.jpg') no-repeat center center/cover;
+  background: url('pool1.jpg') no-repeat center center/cover;
   height: 600px;
 }
 
@@ -164,7 +164,7 @@ p {
 #home-info .info-img {
   float: left;
   width: 50%;
-  background: url('../img/seaside.jpg') no-repeat;
+  background: url('seaside.jpg') no-repeat;
   min-height: 100%;
 }
 
@@ -224,7 +224,7 @@ p {
 /* Testimonials */
 #testimonials {
   height: 800px;
-  background: url('../img/seaside3.jpg') no-repeat center center/cover;
+  background: url('seaside3.jpg') no-repeat center center/cover;
   padding-top: 50px;
 }
 
